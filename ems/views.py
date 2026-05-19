@@ -28,6 +28,10 @@ from .signals import _send_confirmation_email
 # AUTH VIEWS
 # ══════════════════════════════════════════════
 
+
+print("abc")
+
+
 def home(request):
     """Public landing page with featured events."""
     if request.user.is_authenticated:
