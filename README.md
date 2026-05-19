@@ -8,7 +8,7 @@ A production-ready Django web application for managing the full lifecycle of eve
 
 | Feature | Details |
 |---|---|
-| **Role-Based Access** | Admin, Event Manager, Attendee |
+| **Role-Based Access** | Admin, Event Manager, Attendee | 
 | **Event Management** | Create, edit, delete, publish/unpublish |
 | **Smart Registration** | Seat tracking, waitlist promotion, cancel & auto-promote |
 | **Analytics Dashboard** | Google Charts: Pie, Line, Bar, Gauge |
